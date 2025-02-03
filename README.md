@@ -9,7 +9,6 @@ Este repositório contém dashboards interativos desenvolvidos no Power BI, abor
 <a href="https://drive.google.com/drive/folders/1l9gZP16owEf8shLEuKBa27kr4-QXrmUi?usp=drive_link"> Dataset 2 </a>
 
 - Videogames Sales dashboard
-
 <a href="https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset"> Dataset 3 </a>
 
   
